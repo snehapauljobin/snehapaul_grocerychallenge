@@ -1,0 +1,76 @@
+{
+    "grocery":[
+    {"SerialNo":"01",
+       "Name": "Brocoli",
+        "Quantity":"01",
+        "Unit":"Kg",
+        "Notes":"Fresh",
+        "Department": "Vegetables"
+    },
+    {"SerialNo":"02",
+        "Name": "Egg",
+         "Quantity":"10",
+         "Unit":"Number",
+         "Notes":"Duck",
+         "Department": "Poultry"
+     },
+     {"SerialNo":"03",
+        "Name": "Sun Flower oil",
+         "Quantity":"01",
+         "Unit":"Litre",
+         "Notes":"Refined",
+         "Department": "Grocery"
+     },
+     {"SerialNo":"04",
+        "Name": "Rice",
+         "Quantity":"05",
+         "Unit":"Kg",
+         "Notes":"Orgnic",
+         "Department": "Grocery"
+     },
+     {"SerialNo":"05",
+        "Name": "Cabbage",
+         "Quantity":"01",
+         "Unit":"Number",
+         "Notes":"Fresh",
+         "Department": "Vegetables"
+     },
+     {"SerialNo":"06",
+        "Name": "Onion",
+         "Quantity":"02",
+         "Unit":"Kg",
+         "Notes":"White",
+         "Department": "Vegetables"
+     },
+     {"SerialNo":"07",
+        "Name": "Brown Sugar",
+         "Quantity":"01",
+         "Unit":"Kg",
+         "Notes":"Mughal",
+         "Department": "Grocery"
+     },
+     {"SerialNo":"08",
+        "Name": "Fish",
+         "Quantity":"01",
+         "Unit":"Kg",
+         "Notes":"Saradine",
+         "Department": "Poultry"
+     },
+     {"SerialNo":"09",
+        "Name": "Apple Cider vinegar",
+         "Quantity":"01",
+         "Unit":"Litre",
+         "Notes":"Bragg's",
+         "Department": "Grocery"
+     },
+     {"SerialNo":"10",
+        "Name": "Chat masala",
+         "Quantity":"250",
+         "Unit":"Grams",
+         "Notes":"Mughal",
+         "Department": "Grocery"
+     }
+    
+    ]
+    
+    }
